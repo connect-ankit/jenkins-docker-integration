@@ -14,6 +14,8 @@
 	<name>student-crud</name>
 	<description>Demo project for studen and Address one to many relation</description>
 	<properties>
+		
+		
 		<java.version>8</java.version>
 	
 	</properties>
